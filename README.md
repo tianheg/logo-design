@@ -33,4 +33,5 @@ How to Design My logo?
 
 ## References
 
-- [oooooohmygosh - 如何设计属于自己的标志](https://www.bilibili.com/video/BV1aT4y1w7yL)
+- [oooooohmygosh - 如何设计属于自己的标志](https://www.bilibili.com/video/BV1aT4y1w7yL) video
+- [LOGO设计《收藏这个专题，不想学会都难！》](https://www.uisdc.com/20-logo-design-thoughts) post
