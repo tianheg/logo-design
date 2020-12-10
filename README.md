@@ -4,6 +4,10 @@ How to Design My logo?
 
 ## My logo history
 
+### 6th
+
+![6th](assets/images/6th.png)
+
 ### 5th
 
 ![5th](assets/images/5th.png)
