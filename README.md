@@ -1,6 +1,6 @@
 # logo-design
 
-How to Design My logo?
+> How to Design My logo? Continuous design logo
 
 ## My logo history
 
