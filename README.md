@@ -29,6 +29,7 @@ How to Design My logo?
 1. 确定文字：yidajiabei
 2. 决定文字样式（镂空，渐变色，互补图形）
 3. 决定文字状态（立体，弯曲）
+4. 颜色选择：灰色，白色，不用黑色
 
 ## References
 
