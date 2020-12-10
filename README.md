@@ -35,6 +35,13 @@
 3. 决定文字状态（立体，弯曲）
 4. 颜色选择：灰色，白色，不用黑色
 
+## Sources
+
+### Generate favicon
+
+- <https://favicon.io/favicon-converter/>
+- <https://www.favicon-generator.org/>
+
 ## References
 
 - [oooooohmygosh - 如何设计属于自己的标志](https://www.bilibili.com/video/BV1aT4y1w7yL) video
