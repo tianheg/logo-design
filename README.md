@@ -4,6 +4,10 @@
 
 ## My logo history
 
+### 7th
+
+![7th](assets/images/7th.png)
+
 ### 6th
 
 ![6th](assets/images/6th.png)
