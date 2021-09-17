@@ -9,6 +9,10 @@
 
 ## My logo history
 
+### 8th
+
+![8th](img/8th.png)
+
 ### 7th
 
 ![7th](img/7th.png)
