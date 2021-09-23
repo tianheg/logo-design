@@ -45,6 +45,7 @@
 
 1. Generate favicon for Site
 
+- <https://realfavicongenerator.net/>
 - <https://favicon.io/favicon-converter/>
 - <https://www.favicon-generator.org/>
 
